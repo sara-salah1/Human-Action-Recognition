@@ -12,10 +12,10 @@ This project uses the UCF50 dataset, which is a popular benchmark dataset for hu
 **Organization:** The dataset is organized into directories where each directory corresponds to a specific action class. Each action directory contains several video files of that particular action.
 
 # Libraries
-Video Processing: `cv2`, `moviepy.editor`, `pafy`, `youtube-dl`, `pytube`
-Data Manipulation: `numpy`, `datetime`, `collections.deque`
-Machine Learning: `tensorflow`, `tensorflow.keras.layers`, `tensorflow.keras.models`
-Utilities: `sklearn.model_selection.train_test_split`, `matplotlib.pyplot`, `tensorflow.keras.utils.to_categorical`, `tensorflow.keras.utils.plot_model`, `tensorflow.keras.callbacks.EarlyStopping`
+- Video Processing: `cv2`, `moviepy.editor`, `pafy`, `youtube-dl`, `pytube`
+- Data Manipulation: `numpy`, `datetime`, `collections.deque`
+- Machine Learning: `tensorflow`, `tensorflow.keras.layers`, `tensorflow.keras.models`
+- Utilities: `sklearn.model_selection.train_test_split`, `matplotlib.pyplot`, `tensorflow.keras.utils.to_categorical`, `tensorflow.keras.utils.plot_model`, `tensorflow.keras.callbacks.EarlyStopping`
 
 
 # Approaches
