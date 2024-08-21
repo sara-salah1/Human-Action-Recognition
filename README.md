@@ -32,9 +32,12 @@ The LRCN model combines Convolutional Neural Networks (CNN) with LSTM networks. 
 
 **Architecture**: The LRCN model first applies CNN layers to each frame to obtain feature vectors, which are then fed into an LSTM network for action classification.
 
-
 ![image](https://github.com/user-attachments/assets/8d7d47aa-d389-48ec-b16c-73584c97e52f)
 
 ![image](https://github.com/user-attachments/assets/6fe4541d-1278-4f42-9437-e35463e65cd0)
+
+# Test Video
+
+https://github.com/user-attachments/assets/36fa49fa-4914-4e64-b0b6-ef9e1b520dae
 
 
