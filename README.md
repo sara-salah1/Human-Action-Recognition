@@ -40,4 +40,10 @@ The LRCN model combines Convolutional Neural Networks (CNN) with LSTM networks. 
 
 https://github.com/user-attachments/assets/36fa49fa-4914-4e64-b0b6-ef9e1b520dae
 
+# Output 
+
+
+https://github.com/user-attachments/assets/3d2b3878-815f-4a8c-93ab-bca154a69a89
+
+
 
